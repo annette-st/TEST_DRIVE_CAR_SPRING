@@ -34,10 +34,10 @@
         </div>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="index">HOME</a></li>
-                <li class="active"><a href="cars-info">CARS INFO</a></li>
-                <li><a href="shop">YOUR CART</a></li>
-                <li><a href="signUp">SIGN UP</a></li>
+                <li><a href="/feeds">HOME</a></li>
+                <li class="active"><a href="/cars-info">CARS INFO</a></li>
+                <li><a href="/shop">YOUR CART</a></li>
+                <li><a href="/signUp">SIGN UP</a></li>
             </ul>
         </div>
     </div>
@@ -64,7 +64,7 @@
 <div class="container w">
     <div class="row centered">
         <div class="col-lg-3">
-            <img class="img-circle" src="../img/audi-icon.jpg" width="110" height="110" alt="">
+            <img class="img-circle" src="../../../img/audi-icon.jpg" width="110" height="110" alt="">
             <h4>AUDI</h4>
             <p>Audi makes individual premium mobility
                 come alive. It launched their first car
@@ -75,7 +75,7 @@
 
 
         <div class="col-lg-3">
-            <img class="img-circle" src="../img/ferrari-icon.jpg" width="110" height="110" alt="">
+            <img class="img-circle" src="../../../img/ferrari-icon.jpg" width="110" height="110" alt="">
             <h4>FERRARI</h4>
             <p>Ferrari is an Italian car company
                 that makes fast cars. They are made
@@ -85,7 +85,7 @@
         </div>
 
         <div class="col-lg-3">
-            <img class="img-circle" src="../img/mercedes-icon.jpg" width="110" height="110" alt="">
+            <img class="img-circle" src="../../../img/mercedes-icon.jpg" width="110" height="110" alt="">
             <h4>MERCEDES</h4>
             <p>Whether long-haul, construction site,
                 or distribution transportation, the
@@ -95,7 +95,7 @@
         </div>
 
         <div class="col-lg-3">
-            <img class="img-circle" src="../img/lambo-icon.jpg" width="110" height="110" alt="">
+            <img class="img-circle" src="../../../img/lambo-icon.jpg" width="110" height="110" alt="">
             <h4>LAMBORGHINI</h4>
             <p>Lamborghini was founded in 1963 by
                 Ferruccio Lamborghini who founded
@@ -114,7 +114,7 @@
 <div class="container w">
     <div class="row centered">
         <div class="col-lg-3">
-            <img class="img-circle" src="../img/infiniti-icon.jpg" width="110" height="110" alt="">
+            <img class="img-circle" src="../../../img/infiniti-icon.jpg" width="110" height="110" alt="">
             <h4>INFINITI</h4>
             <p>Infiniti is the luxury vehicle division
                 of Japanese automaker Nissan. Most Infiniti
@@ -125,7 +125,7 @@
 
 
         <div class="col-lg-3">
-            <img class="img-circle" src="../img/bmw-icon.jpg" width="110" height="110" alt="">
+            <img class="img-circle" src="../../../img/bmw-icon.jpg" width="110" height="110" alt="">
             <h4>BMW</h4>
             <p>Fancy and sportiness are the two words
                 that define the cars of BMW brand.
@@ -135,7 +135,7 @@
         </div>
 
         <div class="col-lg-3">
-            <img class="img-circle" src="../img/bugatti-icon.jpg" width="110" height="110" alt="">
+            <img class="img-circle" src="../../../img/bugatti-icon.jpg" width="110" height="110" alt="">
             <h4>BUGATTI</h4>
             <p>Bugatti was founded by Ettore Bugatti
                 over a hundred years ago in Molsheim,
@@ -145,7 +145,7 @@
         </div>
 
         <div class="col-lg-3">
-            <img class="img-circle" src="../img/bentley-icon.jpg" width="110" height="110" alt="">
+            <img class="img-circle" src="../../../img/bentley-icon.jpg" width="110" height="110" alt="">
             <h4>BENTLEY</h4>
             <p>From modest beginnings, the company moved
                 from strength to strength – in a relentless

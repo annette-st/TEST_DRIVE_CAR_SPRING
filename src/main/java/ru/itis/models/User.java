@@ -1,14 +1,13 @@
 package ru.itis.models;
 
-import lombok.AllArgsConstructor;
-import lombok.Builder;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
-@Data
-@AllArgsConstructor
-@NoArgsConstructor
+@Getter
+@Setter
 @Builder
+@EqualsAndHashCode
+@ToString
+
 public class User {
     private Long id;
     private String firstName;
@@ -16,3 +15,4 @@ public class User {
     private String email;
     private String hashPassword;
 }
+
